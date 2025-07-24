@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/534589255840984879/2c863bfc0d2b4fb79f9aa30110be87ca/artifacts
+end_time: 1750966903052
+entry_point_name: ''
+experiment_id: '534589255840984879'
+lifecycle_stage: active
+run_id: 2c863bfc0d2b4fb79f9aa30110be87ca
+run_name: delightful-mare-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750966893409
+status: 3
+tags: []
+user_id: Admin

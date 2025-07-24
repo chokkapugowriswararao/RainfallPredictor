@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/534589255840984879/bfc31ca8743f47699c0dc7fe8b172226/artifacts
+end_time: 1753351138237
+entry_point_name: ''
+experiment_id: '534589255840984879'
+lifecycle_stage: active
+run_id: bfc31ca8743f47699c0dc7fe8b172226
+run_name: dazzling-fly-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753351129690
+status: 3
+tags: []
+user_id: Admin
