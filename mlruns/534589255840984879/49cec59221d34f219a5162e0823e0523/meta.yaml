@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/534589255840984879/49cec59221d34f219a5162e0823e0523/artifacts
+end_time: 1753376429924
+entry_point_name: ''
+experiment_id: '534589255840984879'
+lifecycle_stage: active
+run_id: 49cec59221d34f219a5162e0823e0523
+run_name: respected-carp-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753376412840
+status: 3
+tags: []
+user_id: Admin
